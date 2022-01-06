@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Factory'/>
+        <page name='Access Control'/>
+        <page name='Extensions'/>
+        <page name='Generic'/>
+        <page name='Extension'/>
+        <page name='Protocol'/>
+        <page name='Error Handling'/>
+        <page name='Init &amp; Deinit'/>
+        <page name='Properties'/>
+        <page name='Optional Chaining'/>
+        <page name='Nested Types'/>
+        <page name='Subscripts'/>
+        <page name='ARC'/>
+        <page name='Type Casting'/>
+        <page name='Inherit'/>
+        <page name='Structs &amp; Classes'/>
+        <page name='Enums'/>
+        <page name='Closures'/>
+        <page name='Function &amp; Methods'/>
+        <page name='Control Flow'/>
+        <page name='Collection Types '/>
+        <page name='Basic'/>
+        <page name='Collection Types2'/>
+        <page name='UIKit'/>
+        <page name='UILabel'/>
+    </pages>
+</playground>
